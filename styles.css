@@ -3,9 +3,10 @@
     text-align: center;
 }
 
-h2 {
-    color: rgb(15, 67, 211);
+#about-title, #edu-title, #skill-title, #hobby-title, #goal-title, #contact-title {
+    color: rgb(25, 71, 197);
 }
+
 table {
     border: 1px solid blue;
     border-collapse: collapse;
