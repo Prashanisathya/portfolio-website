@@ -16,7 +16,7 @@ td{
     border: 1px solid blue;
     padding: 4px;
 }
-h3{
+#dip, #olevel, #alevel {
     color: rgb(131, 18, 18);
     text-align: left;
 }
